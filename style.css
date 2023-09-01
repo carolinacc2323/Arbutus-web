@@ -1,0 +1,39 @@
+#titulo{
+    position: absolute;
+    z-index: 1;
+    color: #fff;
+    font-size: 80px;
+}
+body{
+    background-color: cadetblue;
+}
+#parrafo{
+    top: 50%;
+    margin: 0 auto;
+}
+#imagen1{
+    width: 100%;
+    height: auto;
+}
+#imagen2{
+    margin-top: 2em;
+    margin-left: 2em;
+}
+/* #carouselExampleCaptions{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    margin-left: 24em;
+    margin-right: 24em;
+} */
+#main-footer{
+    text-align: center;
+}
+.pie{
+    border-top: 2px solid black;
+    margin: 3em;
+    background-image: url(fondo.jpeg);
+}
